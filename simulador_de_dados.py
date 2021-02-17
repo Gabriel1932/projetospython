@@ -27,7 +27,7 @@ class SimuladorDeDado:
             elif self.eventos == "não" or self.eventos == "n":
                         print("obrigado por participar ai")
             else:
-                    print("FAvor digitar sim ou não")
+                    print("Favor digitar sim ou não")
         except:
                 print("Ocorreu um erro ai viu malandro")
     def GerarValorDado(self):
